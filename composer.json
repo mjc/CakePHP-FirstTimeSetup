@@ -1,0 +1,17 @@
+{
+    "name": "mjc/cakephp-first_time_setup",
+    "type": "cakephp-plugin",
+    "description": "First Time Setup Plugin for CakePHP",
+    "keywords": ["cakephp","setup","first time setup"],
+    "homepage": "https://github.com/mjc/CakePHP-FirstTimeSetup",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael J. Cohen",
+            "homepage": "https://github.com/mjc"
+        }
+    ],
+    "require": {
+        "composer/installers": "*"
+    }
+}
