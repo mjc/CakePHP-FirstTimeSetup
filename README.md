@@ -15,3 +15,4 @@ TODO:
 - [ ] add database configuration
 - [ ] run migrations
 - [ ] add authentication
+- [ ] add timezone selection
